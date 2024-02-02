@@ -1,17 +1,17 @@
 ---
-title: 향상된 분석
-description: workfront 1개 과정을 experience league 과정에 매핑
+title: 고급 Analytics
+description: Workfront One 과정을 Experience League 과정으로 매핑
 exl-id: a3aaa1f8-047e-4d5b-9740-3526a378689d
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 향상된 분석
+# 고급 Analytics
 
-현재 Experience League을 위해 이 교육 과정 콘텐츠를 다시 빌드하고 있습니다.  불편을 끼쳐드려 죄송합니다.  이 강의 콘텐츠는 곧 온라인으로 제공될 예정입니다.
+현재 Experience League용 과정 콘텐츠를 다시 빌드하는 중입니다.  불편을 드려 죄송합니다.  이 과정 콘텐츠를 곧 온라인에 공개할 예정입니다.
 
 <!---Learn how to manage your current work and plan future work more accurately by identifying data trends.
 
@@ -94,7 +94,7 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-* [Workfront 교육 과정](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
+* [Workfront 과정](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
 * [Workfront 설명서](https://experienceleague.adobe.com/docs/workfront.html)
-* [Workfront Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Workfront 튜토리얼](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
 * [Workfront 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
